@@ -7,7 +7,7 @@ import math
 import random
 
 # Window Title
-Title = b"Bullet Throwing Game"
+Title = b"RoboRumble Explosive Showdown"
 
 # Window Size and FPS
 W_Width, W_Height = 1000, 700
