@@ -36,9 +36,9 @@ Lab Faculty:  [Mirza Abdullah Al Noman [MAO]](https://www.linkedin.com/in/mirza-
 - Supports multiple players [Two Player] in a turn-based combat format.
 ---
 ## Team Members
-- ***[Cyrus Ornob Corraya]([Facebook](https://www.facebook.com/cyrus.corraya))***
+- ***[Cyrus Ornob Corraya]([Facebook](https://www.facebook.com/cyrus.corraya)***
 - ***[Rejwan Shafi ](https://www.linkedin.com/in/rejwan-shafi-905ba32a8/)***
-- ***[Farhan Labib]([Facebook](https://www.facebook.com/profile.php?id=100010357119836))***
+- ***[Farhan Labib]([Facebook](https://www.facebook.com/profile.php?id=100010357119836)***
 ## Contribution
 Contributions are welcome! If you're interested in enhancing the functionalities of this game, please fork the repository and submit a pull request with your proposed changes.
 
